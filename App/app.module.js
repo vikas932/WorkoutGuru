@@ -9,13 +9,21 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const core_1 = require("@angular/core");
 const platform_browser_1 = require("@angular/platform-browser");
 const app_component_1 = require("./app.component");
+const router_1 = require("@angular/router");
+const FitnessHome_component_1 = require("./Components/Fitness/FitnessHome.component");
+const WorkoutList_component_1 = require("./Components/NavPages/WorkoutList/WorkoutList.component");
+const appRoutes = [
+    { path: 'home', component: FitnessHome_component_1.FitnessHomeComponent },
+    { path: 'WorkoutList', component: WorkoutList_component_1.WorkoutListComponent }
+];
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
     core_1.NgModule({
-        imports: [platform_browser_1.BrowserModule],
-        declarations: [app_component_1.AppComponent],
+        imports: [platform_browser_1.BrowserModule, router_1.RouterModule.forRoot(appRoutes)],
+        declarations: [app_component_1.AppComponent, FitnessHome_component_1.FitnessHomeComponent, WorkoutList_component_1.WorkoutListComponent],
         bootstrap: [app_component_1.AppComponent]
+        //providers: [{ provide: APP_BASE_HREF, useValue: 'home' }]
     })
 ], AppModule);
 exports.AppModule = AppModule;

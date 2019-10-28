@@ -74,3 +74,13 @@ C:\Users\Vikas\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplica
 C:\Users\Vikas\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\Vikas\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Vikas\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\bin\WebApplication1.dll.config
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\bin\WebApplication1.dll
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\bin\WebApplication1.pdb
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\bin\Newtonsoft.Json.dll
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\bin\Newtonsoft.Json.xml
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\obj\Debug\WebApplication1.dll
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\obj\Debug\WebApplication1.pdb
+C:\Projects\ASHCore_QA\Work_POC\WorkoutGuru\obj\Debug\WebApplication1.csprojAssemblyReference.cache
